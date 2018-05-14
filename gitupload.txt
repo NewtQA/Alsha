@@ -1,4 +1,4 @@
 
 
-This is test Git. Version 2. Eclipse version.
+This is test Git. Version 2. Eclipse version. Staged version.
 
